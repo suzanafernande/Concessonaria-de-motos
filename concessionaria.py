@@ -97,6 +97,6 @@ def main():
     print("Digite 9 para realizar uma venda")
     print("Digite 10 para ver todas as vendas")
     print("Digite 11 para pesquisar uma venda especifica")
-    input("Digite o numero:")
+    
 
     
